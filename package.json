@@ -1,6 +1,7 @@
 {
   "name": "kysely-pg-observables",
   "main": "dist/index.js",
+  "version": "0.0.1",
   "devDependencies": {
     "bun-types": "latest",
     "@types/pg": "^8.10.9"
